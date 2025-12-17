@@ -1,7 +1,3 @@
-Voici une **version reformulée et structurée** de ton texte :
-
----
-
 ## **TODO-List API**
 
 Une API REST légère pour gérer une liste de tâches (TODOs) en mémoire, développée avec **Node.js** et **Express**, et testée avec **Jest** et **Supertest**.
