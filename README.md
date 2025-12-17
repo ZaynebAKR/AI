@@ -38,13 +38,3 @@ Une API REST légère pour gérer une liste de tâches (TODOs) en mémoire, dév
 ```bash
 npm test
 ```
-
-* Utilisation de **Jest** et **Supertest**.
-* Couverture complète : création, détection des doublons, mise à jour et suppression des tâches.
-* Test de charge : création de 100 tâches et vérification de la cohérence de la liste.
-
----
-
-Si tu veux, je peux te préparer **une version README.md complète et prête à utiliser** avec cette reformulation et tous les détails de l’API.
-
-Veux‑tu que je fasse ça ?
